@@ -32,9 +32,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Docker/farmacia_escola_licitacao/docker-compose.yml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
-    <configuration name="WildFly 24.0.0.Final" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="WildFly 24.0.0.Final" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+    <configuration name="WildFly 24.0.0.Final" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="WildFly 24.0.0.Final" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:\Program Files\JetBrains\IntelliJ IDEA 2021.1.1\jbr" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="farmacia_escola_licitacao:war exploded">
@@ -117,7 +120,7 @@
       <updated>1630946355308</updated>
       <workItem from="1630946357433" duration="516000" />
       <workItem from="1630946968244" duration="569000" />
-      <workItem from="1630948815828" duration="897000" />
+      <workItem from="1630948815828" duration="1241000" />
     </task>
     <servers />
   </component>
