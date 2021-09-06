@@ -19,17 +19,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1xm3I96q7WuyrzVCdGIhSZI3aP5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Docker/farmacia_escola_licitacao/docker-compose.yml" />
   </component>
-  <component name="RunManager" selected="JBoss/WildFly Server.WildFly 24.0.0.Final">
+  <component name="RunManager">
     <configuration name="WildFly 24.0.0.Final" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="WildFly 24.0.0.Final" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -97,23 +101,11 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
+          <artifact name="farmacia_escola_licitacao:war" />
           <artifact name="farmacia_escola_licitacao:war exploded" />
         </option>
       </method>
     </configuration>
-    <configuration name="Wildfly+Postgres" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
-      <deployment type="docker-compose.yml">
-        <settings>
-          <option name="envFilePath" value="" />
-          <option name="sourceFilePath" value="../../Docker/farmacia_escola_licitacao/docker-compose.yml" />
-        </settings>
-      </deployment>
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Docker.Wildfly+Postgres" />
-      <item itemvalue="JBoss/WildFly Server.WildFly 24.0.0.Final" />
-    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -125,7 +117,7 @@
       <updated>1630946355308</updated>
       <workItem from="1630946357433" duration="516000" />
       <workItem from="1630946968244" duration="569000" />
-      <workItem from="1630948815828" duration="601000" />
+      <workItem from="1630948815828" duration="897000" />
     </task>
     <servers />
   </component>
@@ -143,5 +135,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
