@@ -1,7 +1,3 @@
-create database farmacia_escola_licitacao;
-
-\c farmacia_escola_licitacao;
-
 create table Fornecedor (
 	id serial primary key,
 	cnpj char(12),
