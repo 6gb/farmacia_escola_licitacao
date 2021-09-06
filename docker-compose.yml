@@ -1,0 +1,15 @@
+services:
+    postgres:
+        build: postgres/.
+        restart: always
+        ports:
+        - "5432:5432"
+        environment:
+        - POSTGRES_PASSWORD=pgjdbc
+        - POSTGRES_USER=java
+        - POSTGRES_DB=farmacia_escola_licitacao
+    wildfly:
+        build: wildfly/.
+        ports:
+            - "88:8080"
+        command: /opt/jboss/wildfly/bin/standalone.sh

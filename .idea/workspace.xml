@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbed787a-b3ae-4e40-a81e-372a6e313365" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/ufsm/csi/dao/ConectaDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/ufsm/csi/dao/ConectaDB.java" afterDir="false" />
-    </list>
+    <list default="true" id="cbed787a-b3ae-4e40-a81e-372a6e313365" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +125,7 @@
       <updated>1630946355308</updated>
       <workItem from="1630946357433" duration="516000" />
       <workItem from="1630946968244" duration="569000" />
-      <workItem from="1630948815828" duration="186000" />
+      <workItem from="1630948815828" duration="601000" />
     </task>
     <servers />
   </component>
