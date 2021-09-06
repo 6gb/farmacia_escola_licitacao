@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 
 public class ConectaDB {
     private static final String DRIVER = "org.postgresql.Driver";
-    private static final String URL = "jdbc:postgresql://localhost:5432/farmacia_escola_licitacao";
+    private static final String URL = "jdbc:postgresql://postgres:5432/farmacia_escola_licitacao";
     private static final String USER = "java";
     private static final String PASSWORD = "pgjdbc";
 
